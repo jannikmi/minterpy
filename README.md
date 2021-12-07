@@ -175,7 +175,7 @@ namely
 
 ### Former Members and Contributions
 
-- Jannik Michelfeit
+- Jannik Michelfeit ([jannikmi](https://github.com/jannikmi))
 - Nico Hoffman ([HZDR])
 - Steve Schmerler ([HZDR])
 - Vidya Chandrashekar (TU Dresden)

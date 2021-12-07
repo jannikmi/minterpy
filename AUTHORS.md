@@ -7,10 +7,10 @@
 
 
 ## Mathematical foundation
-- Michael Hecht(HZDR/CASUS) <m.hecht@hzdr.de>
+- Michael Hecht (HZDR/CASUS) <m.hecht@hzdr.de>
 
 ## Former Members and Contributions
-- Jannik Michelfeit
+- Jannik Michelfeit ([jannikmi](https://github.com/jannikmi))
 - Nico Hoffman (HZDR)
 - Steve Schmerler (HZDR)
 - Vidya Chandrashekar (TU Dresden)
